@@ -18,9 +18,5 @@ The objective of this project is subcategorized as follows:
 
 ## Algorithms used:	
 
-Decision Tree
-Gaussian Naive-Bayes
-Logical Regression
-Random Forest
-Support Vector Machine
+Decision Tree, Gaussian Naive-Bayes, Logical Regression, Random Forest, Support Vector Machine
 
