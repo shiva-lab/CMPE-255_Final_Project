@@ -10,7 +10,8 @@ the dataset consists of approximately 4.2 million records.Severity levels are cl
 on traffic and 4 shows the high impact of the accident (i.e., long delay).	
 
 ## Objective:							
-The objective of this project is subcategorized as follows:						 								
+The objective of this project is subcategorized as follows:					
+
 ●  Analyzing the essential features impacting the severity of accidents, including environmental factors such as weather, road features, time, temperature, etc.
  										
 ●  Developing a model that can predict accident severity more accurately. 
