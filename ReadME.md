@@ -15,3 +15,12 @@ The objective of this project is subcategorized as follows:
 ●  Analyzing the essential features impacting the severity of accidents, including environmental factors such as weather, road features, time, temperature, etc.
  										
 ●  Developing a model that can predict accident severity more accurately. 
+
+## Algorithms used:	
+
+Decision Tree
+Gaussian Naive-Bayes
+Logical Regression
+Random Forest
+Support Vector Machine
+
