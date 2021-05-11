@@ -11,6 +11,9 @@
 
 ●  Shiva Pandey - 014638338
 
+# Sample Data Set : 
+out.csv is the sample data file, which can be used to test the model.
+
 The dataset we are using is from Kaggle called “US Accidents (4.2 million records) - A Countrywide Traffic Accident Dataset (2016 - 2020).” 
 At the time of data gathering, the datset consists of data from car accidents that occurred in 49 states of America from February 2016 to December 2020.
 It has used a set of APIs which gave data for streaming events or incidents. The APIs broadcast data from traffic that was taken with a range of entities.
