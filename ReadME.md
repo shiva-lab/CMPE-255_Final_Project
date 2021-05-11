@@ -18,7 +18,7 @@ Such as road-network traffic sensors, cameras, agencies from law enforcement, an
 the dataset consists of approximately 4.2 million records.Severity levels are classified in order between 1 and 4, where 1 shows the minimum impact of the accident 
 on traffic and 4 shows the high impact of the accident (i.e., long delay).	
 
-#### Sample Data Set : out.csv is the sample data file, which can be used to test the model.
+#### Sample Data Set : out.csv is the sample data file, which can be used for evaluation.
 
 ## Objective:							
 The objective of this project is subcategorized as follows:					
